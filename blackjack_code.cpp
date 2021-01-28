@@ -89,13 +89,6 @@ public:
 
 		return summ; //return the value of summ when function is called
 	}
-	/*bool operator<(Card &b)
-	{
-	if (sum() < b.sum())
-	return true;
-	else
-	return false;
-	}*/
 };
 
 int main()
